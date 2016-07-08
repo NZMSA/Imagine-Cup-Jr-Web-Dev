@@ -1,0 +1,95 @@
+"LinkID","RecipeID","IngredientID","Quantity","Measurement","Notes"
+1,1,1,"250","grams","Gingernut"
+2,1,2,"395","grams","Condensed"
+3,1,3,"5","whole",
+4,1,4,"300","milliliters",
+5,1,5,0,,"Vanilla"
+6,1,6,"3","whole","separated"
+7,1,7,"1","whole","zest & juice"
+8,1,8,"2","whole",
+9,1,9,"75","grams",
+10,1,10,"600","grams","peeled"
+11,2,11,"1","teaspoon","grounded"
+12,2,12,"2","teaspoon",
+13,2,13,"45","milliliters","hot"
+14,2,14,"375","grams","cottage cheese, sieved"
+15,2,15,"150","milliliters","low fat, natural"
+16,2,7,"1","whole","zest & juice"
+17,2,3,"1","whole","zest & juice"
+18,2,1,"250","grams","Marie"
+19,2,16,"65","grams","Caster"
+20,2,9,"100","grams","salted"
+21,3,4,"400","milliliters","Lite Coconut"
+22,3,2,"3","cups","Trim"
+23,3,17,"1","teaspoon","Vanilla Essence"
+24,3,18,"120","grams","short/medium grain"
+25,3,19,"1","cups","frozen, defrosted"
+26,3,16,"0.333","cups","Caster/Brown"
+27,4,3,"0.25","cups","juice & zest"
+28,4,16,"0.25","cups","Caster"
+29,4,16,"0.5","cups","Brown"
+30,4,17,"1","whole","Vanilla bean, split"
+31,4,13,"1","cups",
+32,4,20,"1","whole","large, chopped"
+33,4,21,"300","grams","mixed halved & whole"
+34,4,22,"4","whole","sliced"
+35,4,15,0,,"greek-styled"
+36,5,16,"0.5","cups",
+37,5,23,"1.5","teaspoons","grounded"
+38,5,13,"1","cups",
+39,5,16,"1.5","tablespoons",
+40,5,24,"0.5","teaspoons",
+41,5,25,"2","tablespoons","vegetable oil"
+42,5,26,"1","cups",
+43,5,2,"100","grams","Chocolate"
+44,5,4,"0.5","cups",
+45,5,5,0,,"to serve"
+46,6,27,"1","whole","finely chopped"
+47,6,18,"3","cups","Arborio"
+48,6,28,"1","tablespoons","chopped"
+49,6,29,"1.5","liters","vegetable"
+50,6,30,"400","grams",
+51,6,14,"100","grams","Parmesan, grated"
+52,6,31,"2","tablespoons","chopped"
+53,6,25,"0.5","cups","olive"
+54,6,9,"4","tablespoons","small pieces"
+55,7,32,"1000","grams","orange, peeled"
+56,7,24,"0.5","teaspoons",
+57,7,9,"175","grams",
+58,7,2,"500","milliliters",
+59,7,33,"500","grams","Snapper/Tarakihi"
+60,7,27,"1","whole","medium white, finely diced"
+61,7,26,"75","grams",
+62,7,7,"100","milliliters",
+63,7,34,"100","grams",
+64,7,31,"1","tablespoons","chopped"
+65,7,6,"6","whole","boiled - 8 minutes"
+66,8,25,"1","tablespoons","olive"
+67,8,27,"1","whole","brown, finely chopped"
+68,8,28,"2","teaspoons",
+69,8,35,"750","grams","Mince"
+70,8,36,"2","tablespoon","paste"
+71,8,37,"2","tablespoons",
+72,8,38,"100","grams","baby spinach leaves"
+73,8,39,"3","sheets",
+74,8,14,"375","grams","Ricotta, smooth"
+75,8,14,"0.333","cups","Parmesan, grated"
+76,8,36,"700","milliliters","pasta sauce"
+77,9,36,"0.333","cup","sauce"
+78,9,16,"0.25","cups","Brown"
+79,9,40,"0.25","cups","white vinegar"
+80,9,25,"2","teaspoons","sesame"
+81,9,41,"500","grams","thin strips chicken breasts"
+82,9,26,"0.5","tablespoons","cornflour"
+83,9,13,"0.5","tablespoons","cold"
+84,9,42,"500","grams","vege/stir-fry"
+85,9,18,"2","cups",
+86,10,27,"2","whole","sliced spring onions"
+87,10,43,"0.5","teaspoons","grounded"
+88,10,36,"6","whole","medium, chopped"
+89,10,44,"1.5","teaspoons",
+90,10,4,"8","tablespoons",
+91,10,6,"8","whole","scrambled"
+92,10,33,"100","grams","Smoked Salmon Pieces"
+93,10,45,"2","tablespoons","chopped"
+94,10,9,"25","grams",
